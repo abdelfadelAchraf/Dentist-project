@@ -17,12 +17,3 @@ The Dentist Project is a web application designed to provide a user-friendly int
 -  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;: For styling and layout.
 -    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="HTML" width="40" height="40"/>&nbsp;: For interactivity and dynamic content.
 
-## Installation
----
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/dentist-project.git
-
-
